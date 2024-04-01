@@ -5,7 +5,7 @@
 </p>
 
 # CS114.O21
-Em tên là Đặng Thanh Ngân 
+Em tên là Phạm Thanh Thảo
 MSSV 22520929
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
